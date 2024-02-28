@@ -1,0 +1,15 @@
+{
+  "name": "youtubenotes",
+  "version": "1.0.0",
+  "description": "Introducing YoutubeNotes – the ultimate YouTube companion. Bookmark your favorite videos with ease and elevate your experience by adding personalized notes. Effortlessly organize, remember, and rediscover your curated content at your fingertips.",
+  "main": "background.js",
+  "dependencies": {
+    "toastify-js": "^1.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Pratap Singh",
+  "license": "ISC"
+}
